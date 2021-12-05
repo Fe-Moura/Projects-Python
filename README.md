@@ -1,2 +1,1 @@
-# Projects-Python
-Some Python exercises
+That was my first contact with programming languages so... dont judge me LOL
